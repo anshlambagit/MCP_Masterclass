@@ -1,0 +1,19 @@
+[project]
+name = "agentic_terminal"
+version = "0.1.0"
+description = "An MCP which adds terminal capabilities to an agent."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastmcp>=3.2.4",
+]
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.scripts]
+agentic_terminal = "agentic_terminal.main:main"
