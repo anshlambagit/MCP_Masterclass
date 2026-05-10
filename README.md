@@ -1,4 +1,4 @@
-# MCP Masterclass - Complete Guide to Model Context Protocol
+# MCP Masterclass - Complete Guide For Beginners
 
 A comprehensive, hands-on course that teaches you everything about **Model Context Protocol (MCP)** - from creating your first MCP server to deploying production-ready applications using Docker and cloud-native architectures.
 
@@ -532,7 +532,7 @@ Begin with [Chapter 1](./CH-1_CreateMCP) and progress through the course at your
 
 <div align="center">
 
-**Built with ❤️ for the AI and LLM community**
+**Built with ❤️ for the AI and DATA community**
 
 Questions? Open an issue or reach out to the community!
 
